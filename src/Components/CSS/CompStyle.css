@@ -1,0 +1,18 @@
+a {
+    padding: 10px;
+   text-decoration: none;
+}
+
+.menubar{
+    background-color: lightblue;
+    padding: 10px 0px;
+    height: 21px;
+}
+
+.menubar > a:hover {
+    background-color: white;
+}
+
+.active-menu{
+    background-color : lightcoral;
+  }
